@@ -17,7 +17,7 @@ El es el Sargento Murtaugh.
 
 5
 00:01:48,143 --> 00:01:49,769
-- ¿Amenaza o broma?
+- Amenaza o broma?
 - Va en serio.
 
 6
@@ -35,12 +35,12 @@ Muy bien, señor. Muchas gracias.
 
 9
 00:01:56,609 --> 00:01:58,903
-- ¿Han evacuado el edificio?
+- Han evacuado el edificio?
 - Está limpio.
 
 10
 00:01:58,938 --> 00:02:00,881
-- ¿Y los de explosivos?
+- Y los de explosivos?
 - En camino.
 
 11
@@ -53,16 +53,16 @@ Creo que debemos echar un vistazo.
 
 13
 00:02:06,286 --> 00:02:07,412
-¿Qué?
+Qué?
 
 14
 00:02:07,829 --> 00:02:10,227
 - Vienen los de explosivos.
-- ¡No hay bomba!
+- No hay bomba!
 
 15
 00:02:10,262 --> 00:02:12,590
-- ¿Cómo lo sabes?
+- Cómo lo sabes?
 - Porque hay luna llena.
 
 16
@@ -72,7 +72,7 @@ Están por todas partes.
 
 17
 00:02:15,038 --> 00:02:17,130
-- ¿Qué es eso? ¿Griego?
+- Qué es eso? ¿Griego?
 - No, latín.
 
 18
@@ -99,26 +99,26 @@ Tienes razón. Tú espera, ahora vuelvo.
 
 23
 00:02:30,435 --> 00:02:31,901
-¿Qué te pasa?
+Qué te pasa?
 
 24
 00:02:31,936 --> 00:02:34,481
-- ¡Ahí dentro hay una bomba!
-- ¡No!
+- Ahí dentro hay una bomba!
+- No!
 
 25
 00:02:34,516 --> 00:02:36,274
-- ¡Hay una bomba!
-- ¡Que no!
+- Hay una bomba!
+- Que no!
 
 26
 00:02:36,309 --> 00:02:37,532
-¡Ahí hay una bomba!
+Ahí hay una bomba!
 
 27
 00:02:37,567 --> 00:02:39,284
-- ¿Sabes por qué lo sé?
-- ¿Por qué?
+- Sabes por qué lo sé?
+- Por qué?
 
 28
 00:02:39,319 --> 00:02:42,655
@@ -127,8 +127,8 @@ y no quiero meter la pata.
 
 29
 00:02:42,690 --> 00:02:45,867
-¡No hay bomba!
-¡Apuesto partes vitales de mi anatomía!
+No hay bomba!
+Apuesto partes vitales de mi anatomía!
 
 30
 00:02:45,902 --> 00:02:47,160
@@ -148,17 +148,17 @@ Espera. Voy contigo.
 
 34
 00:03:00,632 --> 00:03:01,765
-¿Rog?
+Rog?
 
 35
 00:03:01,800 --> 00:03:04,636
-- ¿Has pagado el seguro?
+- Has pagado el seguro?
 - Claro. ¿Por qué?
 
 36
 00:03:04,969 --> 00:03:07,722
 - Porque podría haber una bomba.
-- ¡Dios mío!
+- Dios mío!
 
 37
 00:03:10,475 --> 00:03:14,104
@@ -187,7 +187,7 @@ Sólo estoy mirando.
 
 43
 00:03:33,832 --> 00:03:36,543
-¿Qué haces? ¡No abras la puerta! ¡No!
+Qué haces? ¡No abras la puerta! ¡No!
 
 44
 00:03:41,673 --> 00:03:43,682
@@ -219,15 +219,15 @@ No hagas nada.
 
 51
 00:04:00,024 --> 00:04:01,317
-¡NO, ESA PUERTA NO!
+NO, ESA PUERTA NO!
 
 52
 00:04:01,776 --> 00:04:03,027
-¡Cabrón hijo de puta!
+Cabrón hijo de puta!
 
 53
 00:04:03,278 --> 00:04:05,989
-¿Tremendo susto eh? Esto lo desactivo yo.
+Tremendo susto eh? Esto lo desactivo yo.
 
 54
 00:04:06,406 --> 00:04:08,908
@@ -240,7 +240,7 @@ tontos para estar aquí dentro.
 
 56
 00:04:16,159 --> 00:04:18,126
-¿Qué "gatástrofe", eh?
+Qué "gatástrofe", eh?
 
 57
 00:04:19,627 --> 00:04:21,546
@@ -254,7 +254,7 @@ No hagas nada.
 59
 00:04:22,464 --> 00:04:26,384
 Nos quedan 9 minutos y 7 segundos.
-¿Sabes qué podemos hacer?
+Sabes qué podemos hacer?
 
 60
 00:04:26,419 --> 00:04:27,684
@@ -270,7 +270,7 @@ No hay llaves. Podría hacer un puente.
 
 63
 00:04:32,307 --> 00:04:34,726
-¡No digas eso cerca de este cacharro!
+No digas eso cerca de este cacharro!
 
 64
 00:04:34,761 --> 00:04:35,775
@@ -278,7 +278,7 @@ Tienes razón.
 
 65
 00:04:35,810 --> 00:04:37,812
-¿Por qué estoy haciendo esto?
+Por qué estoy haciendo esto?
 
 66
 00:04:38,104 --> 00:04:40,940
@@ -287,7 +287,7 @@ a la antigua usanza.
 
 67
 00:04:40,975 --> 00:04:42,817
-¿En qué estás pensando?
+En qué estás pensando?
 
 68
 00:04:42,852 --> 00:04:44,194
